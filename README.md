@@ -1,5 +1,5 @@
 ## Sobre o Projeto
-Este é um projeto backend com uma estrutura organizada e modular para facilitar a manutenção e escalabilidade.
+Este é um projeto backend com uma estrutura organizada e modular para facilitar a manutenção e escalabilidade de projetos de automação (RPA).
 
 ---
 
